@@ -1,0 +1,31 @@
+1.
+	bool isA = (90 <= grade && grade <= 100);
+2.
+	0
+3.
+	Tích của hai giá trị int được tính là một giá trị int, sau đó mới được đổi thành một giá trị long. 
+	Tuy nhiên 65536 * 65536 = 2^32 là giá trị vượt ra ngoài khả năng lưu trữ của số int 32 bit trước khi nó được đổi ra long
+4.
+	0 hoặc false
+	vì căn 2 bị làm tròn nên khi bình phương lên lại sẽ không hoàn toàn bằng 2
+5.
+	Bị waring division by zero 
+	Và kiểu double k thể chia dư
+6.
+	+ Báo lỗi kiểu dữ liệu
+	+ Không có gì xảy ra
+7.
+	0
+	0.75
+	0.75
+	0.75
+8.
+	Sẽ bị lỗi trùng biến
+9.
+	Định danh arg1 chỉ tới biến 'A'
+10.
+	Định danh arg1 chỉ tới biến -1
+11.
+	(5/9) chưa ép kiểu sẽ có ra giá trị bằng 0
+12.
+	Here
