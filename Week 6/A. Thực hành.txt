@@ -1,0 +1,8 @@
+
+2.	Chương trình không có kết thúc
+3.	Không in ra được kết quả
+	Do tham số trong công thức đệ quy không đổi dẫn đến lặp vô tận;
+4.	Không in ra được kết quả
+	Tràn bộ nhớ
+5.	Vòng lặp chạy nhanh hơn và không bị tràn bộ nhớ
+6.	551 tầng thì bị tràn bộ nhớ với mảng 1000 phần tử
