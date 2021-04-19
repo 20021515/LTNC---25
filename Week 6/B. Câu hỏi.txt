@@ -1,0 +1,9 @@
+
+1.	Sẽ là có nếu vòng lặp không liên quan đến tham số thay đổi có quy luật
+	Ví dụ như lặp lại nhập tham số đến khi nào dương
+2.	Có nếu không xác định được số lần lặp
+3.	Tùy vào từng trường hợp
+4.	Cần có những lưu ý liên quan đến bộ nhớ
+5.	Kiểu dữ liệu void không trả về giá trị
+6.	Hàm trả về phải được gọi trước khi gán giá trị cho temp
+
